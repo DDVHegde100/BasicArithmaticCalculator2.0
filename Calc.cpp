@@ -24,6 +24,7 @@ int main()
     int q;
     int r;
     int s;
+    int t;
     int x;
     int type;
     int sum;
